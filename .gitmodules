@@ -1,0 +1,6 @@
+[submodule "application"]
+	path = application
+	url = https://dashboard.heroku.com/apps/automobile-price-predictor
+[submodule "app"]
+	path = app
+	url = https://github.com/Moaz-Morsy/flask_app.git
